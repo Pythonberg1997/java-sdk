@@ -14,20 +14,21 @@ The Binance Chain Java SDK works as a lightweight Java library for interacting w
 
 1. Add the JitPack repository to your project's `pom.xml`:
     ```
-        <repositories>
-            <repository>
-                <id>jitpack.io</id>
-                <url>https://jitpack.io</url>
-            </repository>
-        </repositories>
+    <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
     ```
+
 2. Add the dependency:
     ```
-	<dependency>
-	    <groupId>com.github.bnb-chain</groupId>
-	    <artifactId>java-sdk</artifactId>
-	    <version>Tag</version>
-	</dependency>
+    <dependency>
+        <groupId>com.github.bnb-chain</groupId>
+        <artifactId>java-sdk</artifactId>
+        <version>v1.1.3</version>
+    </dependency>
     ```
 
 # Protobuf
